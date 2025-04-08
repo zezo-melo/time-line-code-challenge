@@ -4,7 +4,7 @@ import timelineItems from "../../timelineItems";
 import Lane from "../Lane/Lane";
 import TimelineHeader from "../TimeLineHeader/TimeLineHeader";
 import { useMemo } from "react";
-import "./Timeline.css"
+import "./TimeLine.css"
 
 export default function Timeline() {
   const lanes = assignLanes(timelineItems);
