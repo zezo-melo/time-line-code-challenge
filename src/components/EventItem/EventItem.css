@@ -1,0 +1,26 @@
+.event {
+    position: absolute;
+    top: 0;
+    height: 80%;
+    background: #5b9bd5;
+    color: white;
+    border-radius: 8px;
+    padding: 4px 8px;
+    font-size: 14px;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    width: auto !important;
+    min-width: 60px;
+    text-align: center;
+    z-index: 1;
+  }
+  
+  .event:hover {
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  }
+  

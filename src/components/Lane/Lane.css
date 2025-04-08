@@ -1,0 +1,11 @@
+.lane {
+  position: relative;
+  height: 40px;
+  margin-bottom: 16px;
+  background-color: #f3f3f3;
+  border-radius: 4px;
+  overflow: visible;
+  width: 100%;
+  box-shadow: inset 0 0 2px rgba(0,0,0,0.05);
+  padding: 2;
+}

@@ -1,0 +1,16 @@
+.timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0; 
+  position: relative;
+  overflow-x: auto;
+  padding: 20px;
+  border-left: 2px solid #ddd;
+  background: #fff;
+  width: 100%;
+  white-space: nowrap;
+}
+
+.timeline-content{
+  width: 2000px;
+}
