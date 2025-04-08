@@ -16,3 +16,9 @@ body {
   border-radius: 20px;
   padding: 40px;
 }
+
+@media (max-width: 1000px) {
+  body {
+    margin: 0;
+  }
+}
