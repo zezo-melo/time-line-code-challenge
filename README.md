@@ -34,9 +34,7 @@ If I had more time, I would:
 - Refine the timeline header for better month alignment at all zoom levels.
 - Extract a theme system for easier styling and customization.
 
-## 🧪 How I would test
-
-With more time, I would:
+## With more time, I would:
 - Write unit tests for `assignLanes` using Jest (or Vitest).
 - Add visual regression tests to ensure event layout consistency.
 - Test edge cases like overlapping same-day events or very long timelines.
