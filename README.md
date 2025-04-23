@@ -15,7 +15,6 @@ The goal was to implement a component for visualizing items on a timeline, using
 - ✔️ Compact lane assignment logic (using `assignLanes.js`)
 - ✔️ Overlap detection based on pixel position (visual collision avoided)
 - ✔️ Responsive scrollable layout with support for varying event durations
-- ✔️ Zoom control to adjust pixels-per-day
 - ✔️ Clean code structure using React components and modular CSS
 - ✔️ Deploy on Vercel: https://time-line-code-challenge.vercel.app/
 
